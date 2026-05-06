@@ -2,14 +2,13 @@ import React from 'react'
 
 import { StatusLuisa } from './componentes/StatusLuisa'
 
-
-const App = () => {
+export const App = () => {
 return (
-<>
-<StatusLuisa/>
+    <div>
+<StatusLuisa />
 
-</>
+    </div>
 )
 
+
 }
-export default App
