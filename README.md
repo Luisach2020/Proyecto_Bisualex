@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # proyecto_bisualex 
 - Luisa (Luisach2020)
+- luisa (lu16253-nh)

@@ -5,7 +5,7 @@ import { StatusLuisa } from './componentes/StatusLuisa'
 export const App = () => {
 return (
     <div>
-<StatusLuisa />
+<StatusLuisa /> 
 
     </div>
 )

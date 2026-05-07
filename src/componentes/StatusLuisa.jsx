@@ -5,9 +5,10 @@ export const StatusLuisa = () => {
     <>
         <div className='puntos'>
          <button onClick={() => { setPuntos ( (prev) => {prev + 2} )}}>Puntos</button>
-            <button>100 *emoji*</button>
-            <button>200 🤗</button>
-            <button>200 ☺️​😂</button>
+           <button onClick={() => { setPuntos ( (prev) => {prev + 2} )}}>100 *emoji*</button>
+           <button onClick={() => { setPuntos ( (prev) => {prev + 2} )}}>200 🤗</button>
+        <button onClick={() => { setPuntos ( (prev) => {prev + 2} )}}>200 ☺️​😂</button>
+    
 
 
         </div>
